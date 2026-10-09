@@ -1,1 +1,0 @@
-# QSAR---Regression-Comparisons
